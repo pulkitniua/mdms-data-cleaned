@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "sw-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "No. of water closets",
+      "active": true
+    },
+
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "No. of toilets",
+      "active": true
+    },
+
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}

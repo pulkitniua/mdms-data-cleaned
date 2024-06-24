@@ -1,0 +1,48 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Pipe Size",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "No. of taps",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "attribute": "Pipe Size",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "attribute": "No. of taps",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}
